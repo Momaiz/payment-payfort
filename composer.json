@@ -20,9 +20,9 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "php": "^8.0",
+    "php": "^7.4",
     "illuminate/support": "^8.50|^9.0",
-    "nesbot/carbon": "^2.0",
+    "nesbot/carbon": "^1.0",
     "guzzlehttp/guzzle": "^7.2"
   },
   "require-dev": {
